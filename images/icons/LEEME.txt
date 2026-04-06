@@ -1,0 +1,15 @@
+Iconos de la sección SERVICIOS
+=============================
+
+Coloca aquí 4 imágenes (PNG o SVG) con estos nombres exactos:
+
+  coffee.png   (o coffee.svg)  → icono taza de café
+  instant.png (o instant.svg) → icono burbuja de mensaje
+  serious.png (o serious.svg) → icono cara seria
+  frame.png   (o frame.svg)   → icono marco de foto
+
+Recomendación: iconos en blanco (#FFFFFF) sobre fondo transparente,
+tamaño aproximado 40x40 px o 64x64 px.
+
+Si usas .svg en lugar de .png, cambia la extensión en index.html
+en cada <img src="images/icons/coffee.png" /> por coffee.svg
